@@ -1,0 +1,2 @@
+# repoForSynchOut
+repo for checkout
