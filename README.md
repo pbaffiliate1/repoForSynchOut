@@ -1,2 +1,1 @@
-# repoForSynchOut
-repo for checkout
+return 1;
